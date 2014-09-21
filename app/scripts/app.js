@@ -3,7 +3,6 @@
 angular.module('yeomanIonicAngularPhonegapSeedApp', [
   'ngCookies',
   'ngResource',
-  'ngRoute',
   'ngAnimate',
   'ui.router',
   'ionic'
